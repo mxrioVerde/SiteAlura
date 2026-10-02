@@ -3,7 +3,7 @@
     --branco-principal: #E9E5E4;
     --cinza-secundario: #ff4d6d;
     --botao: #871c3e;
-    --cor-de-fundo: #00030C;
+    --cor-de-fundo: #000c03;
     --fonte-principal: 'Inter';
 }
 
@@ -147,5 +147,5 @@ footer > ul > li > a {
 }
 
 .rodape__lista li a:hover {
-    color: var(--botao);
+    color: #11772b;
 }
